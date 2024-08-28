@@ -1,4 +1,4 @@
-# shell-scripts
+# DevOps
 Quick starter shell scripts
 
 
